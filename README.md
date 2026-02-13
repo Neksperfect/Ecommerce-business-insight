@@ -37,7 +37,8 @@ Analytical Problem Solving
 
 ## Dataset
 
-Public Brazilian e-commerce dataset containing over 100,000 orders, multiple product categories, payment records, delivery timelines, and customer reviews.
+Dataset: [Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
 
 ## Project Approach
 ### 1. Data Quality Assessment & Cleaning
